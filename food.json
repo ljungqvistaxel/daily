@@ -13,5 +13,21 @@
     "title":"Varm korv",
     "id":2,
     "imgurl":"https://mittkok.expressen.se/wp-content/uploads/2017/02/varmkorv--636x335.jpg"
+  }],
+  "recipes":[{
+    "title":"Recept 1",
+    "id":2
+  },
+  {
+    "title":"Varm korv",
+    "id":3
+  },
+  {
+    "title":"Recept 3",
+    "id":4
+  },
+  {
+    "title":"Recept 4",
+    "id":5
   }]
 }
